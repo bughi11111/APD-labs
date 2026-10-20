@@ -12,3 +12,4 @@ echo "Autor laborator: <Irimia Bogdan Stefan>
  LED_PIN 13 // LED de stare
  BUTTON_PIN 2 //buton de pornire/oprie achizitie
  SAMPLE_PERIOD_MS 500
+ Comunicatie seriala la 19200 baud
