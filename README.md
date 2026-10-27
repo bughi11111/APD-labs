@@ -13,4 +13,7 @@ echo "Autor laborator: <Irimia Bogdan Stefan>
  BUTTON_PIN 2 //buton de pornire/oprie achizitie
  SAMPLE_PERIOD_MS 500
  Comunicatie seriala la 115200 baud
- 
+ ## Senzori utilizați
+| Senzor | Interfață | Domeniu |
+|---|---|---|
+| TMP36 | Analogic (A0) | -40°C .. +125°C |
