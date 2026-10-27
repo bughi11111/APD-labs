@@ -1,0 +1,2 @@
+echo "t=0 ms, adc=512"
+echo "t=500 ms, adc=530"
